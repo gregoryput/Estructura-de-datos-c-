@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\CrudConLista\CrudConLista\bin\Debug\CrudConLista.exe.config
+C:\Users\pc\source\repos\CrudConLista\CrudConLista\bin\Debug\CrudConLista.exe
+C:\Users\pc\source\repos\CrudConLista\CrudConLista\bin\Debug\CrudConLista.pdb
+C:\Users\pc\source\repos\CrudConLista\CrudConLista\obj\Debug\CrudConLista.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\CrudConLista\CrudConLista\obj\Debug\CrudConLista.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\CrudConLista\CrudConLista\obj\Debug\CrudConLista.exe
+C:\Users\pc\source\repos\CrudConLista\CrudConLista\obj\Debug\CrudConLista.pdb
